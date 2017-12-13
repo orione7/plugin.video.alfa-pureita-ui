@@ -1,4 +1,4 @@
-# plugin.video.alfa-pureita-ui
+# plugin.video.Alfa-Pureita-UI
 
 Son of Alfa-Addon:
 
